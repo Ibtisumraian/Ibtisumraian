@@ -16,6 +16,7 @@ As a proficient MERN Stack Developer, I specialize in crafting robust and scalab
 ---
 
 
+
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/ceyvMCAk) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ibtisum.raian.3) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ib_raian) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ibtisumraian@gmail.com) 
 
@@ -25,6 +26,12 @@ As a proficient MERN Stack Developer, I specialize in crafting robust and scalab
 ![](https://github-readme-stats.vercel.app/api?username=Ibtisumraian&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Ibtisumraian&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ibtisumraian&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Ibtisumraian&theme=gruvbox_light&no-frame=false&no-bg=false&margin-w=4)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Ibtisumraian&limit=5&theme=gruvbox_light&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Ibtisumraian&icon=0&color=0)](https://visitcount.itsvg.in)
