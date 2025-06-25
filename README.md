@@ -13,13 +13,13 @@ I enjoy solving problems, learning new frameworks, and creating clean and user-f
 ---
 
 
-## <img src="https://www.svgrepo.com/download/148137/folder.svg" width="25" height="25" alt="folder icon"/> Recent Projects
+## 🚀 Current Activities
 
-| <img src="https://www.svgrepo.com/download/501848/brand-brand.svg" width="20" height="20" alt="brain icon"/> Project Name | <img src="https://www.svgrepo.com/download/466220/sign-in-2.svg" width="20" height="20" alt="bug icon"/> Issues                                                                                                                   | <img src="https://www.svgrepo.com/download/341443/equipment-maintenance-screwdriver-tools-wrench.svg" width="20" height="20" alt="gear icon"/> Technologies |
-| ------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <a href="https://whereisit-app.web.app/">WhereIsIt App</a>                                  | <a href="https://github.com/ShaharearSabbir/LearnOsphere-server/issues"><img src="https://img.shields.io/github/issues/ShaharearSabbir/LearnOsphere-server?color=success&label=issues&style=flat-square" alt="GitHub issues"></a> | React • Node • Express • MongoDB • Firebase  • Firebase • JWT                                                                                                                                  |
-| <a href="https://github.com/ShaharearSabbir/root-rhythm-client">Root Rhythm Client</a>                                    | <a href="https://github.com/ShaharearSabbir/root-rhythm-client/issues"><img src="https://img.shields.io/github/issues/ShaharearSabbir/root-rhythm-client?color=success&label=issues&style=flat-square" alt="GitHub issues"></a>   | React • Tailwind • Firebase                                                                                                                                 |
-| <a href="https://github.com/ShaharearSabbir/LearnOsphere-client">LearnOsphere Client</a>                                  | <a href="https://github.com/ShaharearSabbir/LearnOsphere-client/issues"><img src="https://img.shields.io/github/issues/ShaharearSabbir/LearnOsphere-client?color=success&label=issues&style=flat-square" alt="GitHub issues"></a> | React • Firebase • JWT                                                                                                                                      |
+- 🔍 Exploring **React.js**, **Tailwind CSS**, and **Framer Motion**
+- 🛠️ Developing **WhereIsIt** – a full-stack lost & found item website with JWT authentication, MongoDB, and responsive UI
+- 💡 Building a **Recipe Book App** with user auth, filtering, liking, and dark mode support
+- 💳 Maintaining a **Bill Management System** for utility payments with profile and recovery features
+- 📚 Revising core **JavaScript** concepts before diving deeper into advanced React
 
 ---
 
