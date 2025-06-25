@@ -1,4 +1,4 @@
- <img src="./dp-2.png"/>
+ <img src="./dp.png"/>
 <!-- ![Banner]([https://your-banner-image-url.com](https://www.canva.com/design/DAGrWaAnvCM/7mouLTnaU-GAus6mR2yxrQ/view?utm_content=DAGrWaAnvCM&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hdbbda7e57f))  Replace with your actual banner image URL -->
 
 # 👋 Hi, I'm Ibtisum Raian  
