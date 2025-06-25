@@ -32,7 +32,8 @@ I thrive on solving real-world problems, continuously learning emerging framewor
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/ceyvMCAk)  [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ib_raian) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ibtisumraian@gmail.com) 
 
 
-# 🛠️ Skills
+## 🛠️ Skills
+
 ---
 
 # <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32">  Languages and Tools:
