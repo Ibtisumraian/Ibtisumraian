@@ -1,6 +1,6 @@
 ![Banner](https://your-banner-image-url.com) <!-- Replace with your actual banner image URL -->
 
-# 👋 Hi, I'm [Your Name Here]  
+# 👋 Hi, I'm [Ibtisum Raian]  
 ### 💻 Web Developer | MERN Stack Enthusiast
 
 ---
