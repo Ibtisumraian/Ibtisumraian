@@ -1,9 +1,17 @@
+![Banner](https://your-banner-image-url.com) <!-- Replace with your actual banner image URL -->
 
+# 👋 Hi, I'm [Your Name Here]  
+### 💻 Web Developer | MERN Stack Enthusiast
 
+---
 
-## 💫 About Me:
+## 🧑‍💼 About Me
 
-As a proficient MERN Stack Developer, I specialize in crafting robust and scalable web applications. My expertise spans across MongoDB, Express.js, React, and Node.js, enabling me to deliver comprehensive full-stack solutions.
+I’m a passionate web developer with a strong interest in building full-stack applications using modern technologies like React, Node.js, and MongoDB.  
+I enjoy solving problems, learning new frameworks, and creating clean and user-friendly interfaces.
+
+---
+
 
 ## <img src="https://www.svgrepo.com/download/148137/folder.svg" width="25" height="25" alt="folder icon"/> Recent Projects
 
