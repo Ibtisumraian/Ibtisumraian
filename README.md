@@ -8,8 +8,9 @@
 
 ## 🧑‍💼 About Me
 
-I’m a passionate web developer with a strong interest in building full-stack applications using modern technologies like React, Node.js, and MongoDB.  
-I enjoy solving problems, learning new frameworks, and creating clean and user-friendly interfaces.
+I’m a dedicated and enthusiastic web developer with a keen interest in building robust full-stack applications using modern technologies such as React, Node.js, and MongoDB.
+
+I thrive on solving real-world problems, continuously learning emerging frameworks, and crafting clean, responsive, and user-friendly interfaces that deliver meaningful user experiences.
 
 ---
 
